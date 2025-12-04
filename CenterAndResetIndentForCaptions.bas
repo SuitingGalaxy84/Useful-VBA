@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module5"
+Attribute VB_Name = "CenterAndResetIndentForCaptions"
 Sub CenterAndResetIndentForCaptions()
     Dim doc As Document
     Dim fld As Field

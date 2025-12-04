@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module3"
+Attribute VB_Name = "ConvertFigureListToText"
 Sub ConvertFigureListToText()
     Dim para As Paragraph
     Dim ListStr As String

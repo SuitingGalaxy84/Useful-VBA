@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module1"
+Attribute VB_Name = "ConvertTableListToText"
 Sub ConvertTableListToText()
     Dim para As Paragraph
     Dim ListStr As String

@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module4"
+Attribute VB_Name = "ChangeTextAfterFigureFieldToSimHei"
 Sub ChangeTextAfterFigureFieldToSimHei()
     Dim doc As Document
     Dim fld As Field

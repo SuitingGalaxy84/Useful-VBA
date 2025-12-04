@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module7"
+Attribute VB_Name = "RemoveAllIndentsInTables"
 Sub RemoveAllIndentsInTables_Safe()
     Dim doc As Document
     Dim tbl As Table

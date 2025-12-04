@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module6"
+Attribute VB_Name = "ReplaceSEQIdentifiers"
 Sub ReplaceSEQIdentifiers()
     Dim doc As Document
     Dim fld As Field
